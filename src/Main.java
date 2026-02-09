@@ -44,6 +44,7 @@ public class Main {
         System.out.println("The quotient using doubles of " + doubleOperandB + " and " + doubleOperandA + " is " + doubleQuotient);
         System.out.println("The modulo using doubles of " + doubleOperandB + " and " + doubleOperandA + " is " + doubleModulo);
         System.out.println(); // add a space for readability
+
         // the number of kids in your family:
         int kidsInFamily = 3;
         System.out.println("There are " + kidsInFamily + " kids in my family.");
