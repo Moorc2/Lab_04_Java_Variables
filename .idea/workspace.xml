@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="089baa1d-493b-44c3-85ce-da9cf1c1834a" name="Changes" comment="spelling corrections">
+    <list default="true" id="089baa1d-493b-44c3-85ce-da9cf1c1834a" name="Changes" comment="Removed random import at 1,1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -91,7 +91,23 @@
       <option name="project" value="LOCAL" />
       <updated>1770653325172</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Declarations complete">
+      <option name="closed" value="true" />
+      <created>1770675346847</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770675346847</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Removed random import at 1,1">
+      <option name="closed" value="true" />
+      <created>1770675398046</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770675398046</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +125,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Git commit test" />
     <MESSAGE value="spelling corrections" />
-    <option name="LAST_COMMIT_MESSAGE" value="spelling corrections" />
+    <MESSAGE value="Declarations complete" />
+    <MESSAGE value="Removed random import at 1,1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed random import at 1,1" />
   </component>
 </project>

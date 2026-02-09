@@ -14,6 +14,7 @@ public class Main {
         double doubleProduct = 0.00;
         double doubleDifference = 0.00;
         double doubleQuotient = 0.00;
+        double doubleModulo = 0.00;
 
         // Create declarations and output strings for each:
         // + - * / %
@@ -29,6 +30,7 @@ public class Main {
         doubleDifference = doubleOperandB - doubleOperandA; // Assignment uses arithmetic operator - for subtraction
         doubleProduct = doubleOperandA * doubleOperandB; // Assignment uses arithmetic operator * for multiplication
         doubleQuotient = doubleOperandB / doubleOperandA; // Assignment uses arithmetic operator / for division
+        doubleModulo = doubleOperandB % doubleOperandA; // Assignment uses % operator for modulo (remainder)
 
         System.out.println("The sum using ints of " + intOperandA + " and " + intOperandB + " is " + intSum);
         System.out.println("The difference using ints of " + intOperandB + " and " + intOperandA + " is " + intDifference);
@@ -42,6 +44,23 @@ public class Main {
         System.out.println("The difference using doubles of " + doubleOperandB + " and " + doubleOperandA + " is " + doubleDifference);
         System.out.println("The product using doubles of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleProduct);
         System.out.println("The quotient using doubles of " + doubleOperandB + " and " + doubleOperandA + " is " + doubleQuotient);
+        System.out.println("The modulo using doubles of " + doubleOperandB + " and " + doubleOperandA + " is " + doubleModulo);
+
+        // the number of kids in your family:
+        int kidsInFamily = 3;
+        // the answer to is it raining?:
+        boolean isRaining = false;
+        // the price of a gallon of gas:
+        double gasPrice = 4.20;
+        // your favorite number:
+        double favNumber = 3.14;
+        // your shoe size:
+        double shoeSize = 11.5;
+        // your birth month:
+        int birthMonth = 1;
+        // your full name:
+        String fullName = "Charles Moore";
+
 
 
     }
