@@ -15,11 +15,11 @@ public class Main {
         double doubleDifference = 3.50;
         double doubleQuotient = 3.50;
 
-        // Create delcations and output strings for each:
+        // Create declarations and output strings for each:
         // + - * / %
 
         intSum = intOperandA + intOperandB; // Assignment uses arithmetic operator + / addition
-        intDifference = intOperandB - intOperandA; // Assignment uses arithmetic operator - / substraction
+        intDifference = intOperandB - intOperandA; // Assignment uses arithmetic operator - / subs]traction
 
 
 
