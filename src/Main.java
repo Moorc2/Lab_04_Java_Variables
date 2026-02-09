@@ -37,29 +37,34 @@ public class Main {
         System.out.println("The product using ints of " + intOperandA + " and " + intOperandB + " is " + intProduct);
         System.out.println("The quotient using ints of " + intOperandB + " and " + intOperandA + " is " + intQuotient);
         System.out.println("The modulo using ints of " + intOperandB + " and " + intOperandA + " is " + intModulo);
-
-        System.out.println();
-
+        System.out.println(); // add a space for readability
         System.out.println("The sum using doubles of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleSum);
         System.out.println("The difference using doubles of " + doubleOperandB + " and " + doubleOperandA + " is " + doubleDifference);
         System.out.println("The product using doubles of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleProduct);
         System.out.println("The quotient using doubles of " + doubleOperandB + " and " + doubleOperandA + " is " + doubleQuotient);
         System.out.println("The modulo using doubles of " + doubleOperandB + " and " + doubleOperandA + " is " + doubleModulo);
-
+        System.out.println(); // add a space for readability
         // the number of kids in your family:
         int kidsInFamily = 3;
+        System.out.println("There are " + kidsInFamily + " kids in my family.");
         // the answer to is it raining?:
         boolean isRaining = false;
+        System.out.println("Is it raining? " + isRaining);
         // the price of a gallon of gas:
         double gasPrice = 4.20;
+        System.out.println("The price of gas is: " + gasPrice);
         // your favorite number:
-        double favNumber = 3.14;
+        int favNumber = 13;
+        System.out.println("My favorite number is: " + favNumber);
         // your shoe size:
         double shoeSize = 11.5;
+        System.out.println("My show size is: " + shoeSize);
         // your birth month:
         int birthMonth = 1;
+        System.out.println("My birth month is: " + birthMonth);
         // your full name:
         String fullName = "Charles Moore";
+        System.out.println("My name is: " + fullName);
 
 
 
