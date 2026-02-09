@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="089baa1d-493b-44c3-85ce-da9cf1c1834a" name="Changes" comment="Initial commit">
+    <list default="true" id="089baa1d-493b-44c3-85ce-da9cf1c1834a" name="Changes" comment="spelling corrections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -67,7 +67,31 @@
       <option name="project" value="LOCAL" />
       <updated>1770651940671</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1770653200299</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770653200299</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Git commit test">
+      <option name="closed" value="true" />
+      <created>1770653227469</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770653227469</updated>
+    </task>
+    <task id="LOCAL-00004" summary="spelling corrections">
+      <option name="closed" value="true" />
+      <created>1770653325172</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770653325172</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +107,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Git commit test" />
+    <MESSAGE value="spelling corrections" />
+    <option name="LAST_COMMIT_MESSAGE" value="spelling corrections" />
   </component>
 </project>
